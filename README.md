@@ -1,18 +1,16 @@
-# 🕵️‍♂️ OSINT PublicEye – Your Free OSINT Assistant on Telegram
+# 🕵️‍♂️ OSINT PublicEye – Your OSINT Assistant on Telegram
 
 **🔍 [@publiceye_free_bot](https://t.me/publiceye_free_bot)** – Search, analyse and collect information from public sources quickly and anonymously, directly inside Telegram.
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-%40publiceye__free__bot-0088cc?logo=telegram&logoColor=white)](https://t.me/publiceye_free_bot)
-[![Free](https://img.shields.io/badge/Always-Free-brightgreen)]()
 [![OSINT](https://img.shields.io/badge/Powered%20by-OSINT-blueviolet)]()
 
 ---
 
 ## ✨ Why PublicEye?
 
-- **🔎 Full OSINT searches** – usernames, emails, phone numbers, domains, IP addresses and more.
+- **🔎 Full OSINT searches** – usernames, emails, phone numbers, domains, public IPs and more.
 - **⚡ Fast & no sign‑up** – just start the bot, no extra accounts or logins.
-- **🆓 100% free** – no daily limits for average users, no paywalls.
 - **🔒 Your privacy matters** – we do not store your targets or search results.
 - **🤖 Smart automation** – intuitive commands and formatted replies ready to use or export.
 
@@ -92,11 +90,11 @@ All commands are supported. You can send a single query or multiple lines (one r
 | `Petrov Ivan`    | Search by name             |
 | `314159265`      | Search by Instagram user ID |
 
-### 📍 IP address search
+### 📍 Public IP address search
 
-| Example      | Description        |
-|--------------|--------------------|
-| `127.0.0.1`  | Search by IPv4 address |
+| Example      | Description                       |
+|--------------|-----------------------------------|
+| `127.0.0.1`  | Search by public IP (IPv4 or IPv6)|
 
 ### 📃 Mass search from a file
 
@@ -133,14 +131,6 @@ Simply write **one request per line** and send them all in one message. The bot 
 👉 Or click the badge below:
 
 [![Launch on Telegram](https://img.shields.io/badge/Launch-%40publiceye__free__bot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/publiceye_free_bot)
-
----
-
-## 👥 Join the community
-
-Have questions, suggestions or want to share OSINT tips?  
-Join our Telegram group: **[@publiceye_free_bot](https://t.me/publiceye_free_bot)** *(the same link – the bot and group are integrated)*  
-> *If you have a separate group URL, replace the link above. The group name is **OSINT PublicEye**.*
 
 ---
 
